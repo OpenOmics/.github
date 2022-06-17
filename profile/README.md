@@ -1,6 +1,6 @@
 # Welcome to OpenOmics
 
-<img align="right" alt="GIF" src="https://github.com/OpenOmics/.github/blob/main/assets/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/OpenOmics/.github/blob/main/assets/code.gif?raw=true" width="417" height="267" />
 
 We are a diverse group of Bioinformatics scientists, developers, and data scientists on a mission to push science forward.
 
